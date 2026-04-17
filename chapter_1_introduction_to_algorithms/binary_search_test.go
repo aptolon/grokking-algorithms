@@ -1,7 +1,7 @@
 package binarysearch_test
 
 import (
-	binarysearch "study/grokking-algorithms/introduction_algorithms"
+	binarysearch "study/grokking-algorithms/chapter_1_introduction_to_algorithms"
 	"testing"
 )
 
